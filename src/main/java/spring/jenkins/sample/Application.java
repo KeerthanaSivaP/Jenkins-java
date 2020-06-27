@@ -21,7 +21,7 @@ public class Application {
 	
 	public void test() {
 		
-		String name="Saurabh Delh Dei";
-		System.out.println("Added fcode for jenkins demo");
+		String name="keerthana";
+		System.out.println("Added code for jenkins demo");
 		}
 }
